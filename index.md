@@ -231,7 +231,7 @@ for more information.
     </table>
   </div>
 <div class="col-md-6">
-    <h3>Day 1</h3>
+    <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>9:00</td> <td>Motivation and Demotivation </td> </tr>
       <tr> <td>10:15</td> <td>Mindset </td> </tr>
@@ -242,7 +242,7 @@ for more information.
     </table>
   </div>
 <div class="col-md-6">
-    <h3>Day 2</h3>
+    <h3>Day 3</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
       <tr> <td>09:10</td> <td>Live Coding Is a Skill </td> </tr>
@@ -254,7 +254,7 @@ for more information.
     </table>
   </div>
 <div class="col-md-6">
-    <h3>Day 2</h3>
+    <h3>Day 4</h3>
     <table class="table table-striped">
       <tr> <td>9:00</td> <td>The Carpentries: How We Operate </td> </tr>
       <tr> <td>9:50</td> <td>More Practice Live Coding </td> </tr>
