@@ -10,7 +10,7 @@ enddate: 2021-02-04        # machine-readable end date for the workshop in YYYY-
 instructor: ["Melissa Ko", "Christina Koch"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["ckoch5@wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad: https://docs.google.com/document/d/16L_4PvUXOBgi9b43FXuM9t-KxPSKfGhg4R76da_fY2c # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
