@@ -237,32 +237,34 @@ for more information.
       <tr> <td>10:15</td> <td>Mindset </td> </tr>
       <tr> <td>11:15</td> <td>Break </td> </tr>
       <tr> <td>11:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>12:15</td> <td>Wrap-up and Homework for Tomorrow </td> </tr>
+      <tr> <td>12:20</td> <td>Wrap-up and Homework for Tomorrow </td> </tr>
       <tr> <td>12:30</td> <td>Finish </td> </tr>
     </table>
   </div>
+ </div>
 <div class="col-md-6">
     <h3>Day 3</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
       <tr> <td>09:10</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>10:15</td> <td>Break </td> </tr>
-      <tr> <td>10:30</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>11:30</td> <td>Managing a Diverse Classroom </td> </tr>
-      <tr> <td>12:10</td> <td>Checkout Process </td> </tr>
-      <tr> <td>12:30</td> <td>Finish </td> </tr>
+      <tr> <td>10:10</td> <td>Break </td> </tr>
+      <tr> <td>10:35</td> <td>Preparing to Teach </td> </tr>
+      <tr> <td>11:25</td> <td>Managing a Diverse Classroom </td> </tr>
+      <tr> <td>11:55</td> <td>Checkout Process </td> </tr>
+      <tr> <td>12:20</td> <td>Finish </td> </tr>
     </table>
   </div>
-<div class="col-md-6">
+<div class="row">
+  <div class="col-md-6">
     <h3>Day 4</h3>
     <table class="table table-striped">
       <tr> <td>9:00</td> <td>The Carpentries: How We Operate </td> </tr>
       <tr> <td>9:50</td> <td>More Practice Live Coding </td> </tr>
       <tr> <td>10:30</td> <td>Break</td> </tr>
       <tr> <td>10:45</td> <td>Workshop Introductions </td> </tr>
-      <tr> <td>11:45</td> <td>Putting it Together </td> </tr>
-      <tr> <td>12:00</td> <td>Wraping Up </td> </tr>
-      <tr> <td>12:10</td> <td>Post-Training Survey </td> </tr>
+      <tr> <td>11:30</td> <td>Putting it Together </td> </tr>
+      <tr> <td>11:55</td> <td>Wraping Up </td> </tr>
+      <tr> <td>12:15</td> <td>Post-Training Survey </td> </tr>
       <tr> <td>12:30</td> <td>Finish </td> </tr>
     </table>
   </div>
