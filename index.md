@@ -14,7 +14,7 @@ etherpad: https://docs.google.com/document/d/16L_4PvUXOBgi9b43FXuM9t-KxPSKfGhg4R
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
+    address: "https://carpentries.zoom.us/my/carpentriesroom1?pwd=VElzMTlMcXh1bjF6YXl3L1NsTllldz09"
 
 ---
 
@@ -288,9 +288,9 @@ for more information.
 <hr/>
 
 <p id="etherpad">
-  <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
+  <strong>Training notes:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
   <br/>
-  We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this shared doc for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 
 {% endif %}
