@@ -1,5 +1,5 @@
 ## Carpentries Instructor Training
 
 * Online
-* February 1-4, 2021
-* Website: https://christinalk.github.io/2021-02-01-ttt-online-PST/
+* March 15-18, 2021
+* Website: https://laufers.github.io/2021-03-15-ttt-online-CST
